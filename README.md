@@ -1,2 +1,2 @@
-developing-data-product-slidify-
+developing-data-product-slidify
 ================================
